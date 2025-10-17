@@ -56,9 +56,17 @@ The goal of this project is to utilize customer and campaign data to develop ins
 - Centroids as representative points – The yellow X marks show the centroids of each cluster, which are positioned centrally within their groups. This means the centroids are good representatives of each cluster’s characteristics.
 
 ## EDA After Clustering
-<img width="451" height="149" alt="image" src="https://github.com/user-attachments/assets/ff2c1b2b-69a5-451a-a307-d4a237ce745c" />
 
 <img width="1445" height="282" alt="image" src="https://github.com/user-attachments/assets/735b1dcb-5973-4245-9ba3-7aadea2957a3" />
+
+<img width="1436" height="395" alt="image" src="https://github.com/user-attachments/assets/2bbd1a53-8e3d-4286-a7a0-8a88d856981d" />
+
+<img width="1445" height="300" alt="image" src="https://github.com/user-attachments/assets/25ee3624-5c25-40d1-85ad-e64282ce6072" />
+
+## Business Recommendations
+<img width="1528" height="1362" alt="image" src="https://github.com/user-attachments/assets/118acee1-4f2b-4fc7-bb61-877035bda35e" />
+
+
 
 
 
