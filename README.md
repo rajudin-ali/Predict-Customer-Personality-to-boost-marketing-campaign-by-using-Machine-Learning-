@@ -55,6 +55,10 @@ The goal of this project is to utilize customer and campaign data to develop ins
 - Balanced distribution – Each cluster has a relatively similar size and density, indicating that K=4 provides a balanced segmentation without one cluster dominating the others.
 - Centroids as representative points – The yellow X marks show the centroids of each cluster, which are positioned centrally within their groups. This means the centroids are good representatives of each cluster’s characteristics.
 
+## EDA After Clustering
+<img width="451" height="149" alt="image" src="https://github.com/user-attachments/assets/ff2c1b2b-69a5-451a-a307-d4a237ce745c" />
+
+<img width="1445" height="282" alt="image" src="https://github.com/user-attachments/assets/735b1dcb-5973-4245-9ba3-7aadea2957a3" />
 
 
 
