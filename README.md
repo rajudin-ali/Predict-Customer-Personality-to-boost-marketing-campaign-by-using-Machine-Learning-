@@ -64,7 +64,7 @@ The goal of this project is to utilize customer and campaign data to develop ins
 <img width="1445" height="300" alt="image" src="https://github.com/user-attachments/assets/25ee3624-5c25-40d1-85ad-e64282ce6072" />
 
 ## Business Recommendations
-<img width="1528" height="1362" alt="image" src="https://github.com/user-attachments/assets/118acee1-4f2b-4fc7-bb61-877035bda35e" />
+<img width="1528" height="694" alt="image" src="https://github.com/user-attachments/assets/fd843bcf-ef49-4b62-9d9a-5d7046cb45fe" />
 
 
 
