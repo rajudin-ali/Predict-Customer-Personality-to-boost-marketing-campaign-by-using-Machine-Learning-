@@ -1,5 +1,10 @@
 # Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning-
 
+## Background 
+A company can experience significant growth when it understands the behavior and personality of its customers. This understanding enables the company to provide better services and greater value to potential loyal customers. By processing historical marketing campaign data, the company can enhance its performance and effectively target the right customers to increase transactions on its platform. Based on these data insights, the focus of this project is to develop a predictive clustering model that helps the company make more informed and strategic business decisions.
+
+This project was conducted as part of a mini project at Rakamin Academy, aiming to apply data analysis and machine learning techniques to real business scenarios.
+
 ## Goals
 The goal of this project is to utilize customer and campaign data to develop insights that strengthen business strategies. More specifically, the aim is to build a predictive clustering model that enables the company to identify, segment, and engage customers more effectively.
 
